@@ -1,7 +1,7 @@
 # DiceRoller
 
 ## Instruções
-- Faça um fork do repositório;
+- Crie o repositório baseado no template;
 - Implemente o que é pedido:
     - Criação do layout seguindo o layout no figma.
     - Implementar o método de rolagem utilizando o método Random.
