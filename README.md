@@ -23,3 +23,5 @@
 - [Figma](https://www.figma.com/file/Or6Kna0mOCp7RR7bYCdSvr/Untitled?type=design&node-id=0%3A1&mode=design&t=X6ajUIfgt3KHLQbJ-1)
 
 - [Método Math Random](https://learn.microsoft.com/pt-br/dotnet/api/system.random.next?view=net-7.0)
+
+- [Picker]([https://learn.microsoft.com/pt-br/dotnet/api/system.random.next?view=net-7.0](https://learn.microsoft.com/en-us/dotnet/maui/user-interface/controls/picker)https://learn.microsoft.com/en-us/dotnet/maui/user-interface/controls/picker)
