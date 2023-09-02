@@ -24,4 +24,4 @@
 
 - [Método Math Random](https://learn.microsoft.com/pt-br/dotnet/api/system.random.next?view=net-7.0)
 
-- [Picker]([https://learn.microsoft.com/pt-br/dotnet/api/system.random.next?view=net-7.0](https://learn.microsoft.com/en-us/dotnet/maui/user-interface/controls/picker)https://learn.microsoft.com/en-us/dotnet/maui/user-interface/controls/picker)
+- [Picker](https://learn.microsoft.com/en-us/dotnet/maui/user-interface/controls/picker)
