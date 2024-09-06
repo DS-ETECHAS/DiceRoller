@@ -7,23 +7,7 @@
         <VerticalStackLayout
             Spacing="25"
             Padding="30,0">
-            <Label Text="Rolador de Dados" HorizontalOptions="Center" FontSize="48" ></Label>
-            <Label Text="0" x:Name="NumeroSorteado" HorizontalOptions="Center" FontSize="42"></Label>
-            <Picker x:Name="SeletorDeLadosDoDado" HorizontalOptions="Center" >
-                <Picker.ItemsSource>
-                    <x:Array Type="{x:Type x:Int32}">
-                        <x:Int32>4</x:Int32>
-                        <x:Int32>6</x:Int32>
-                        <x:Int32>10</x:Int32>
-                        <x:Int32>20</x:Int32>
-                        <x:Int32>100</x:Int32>
-                    </x:Array>
-                </Picker.ItemsSource>
-            </Picker>
-            <Button x:Name="SorteadorDeNumeroDoDado"
-                    Text="Rolar o dado"
-                    HorizontalOptions="Center"
-                    Clicked="SortearNumeroAleatorio"></Button>
+
         </VerticalStackLayout>
     </ScrollView>
 
